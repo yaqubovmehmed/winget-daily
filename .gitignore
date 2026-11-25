@@ -1,0 +1,17 @@
+# ---- ishga tushirish paytida hosil bo'ladigan ma'lumotlar ----
+logs/
+last-run.json
+run-state.json
+
+# ---- tarqatish arxivlari ----
+dist/
+*.zip
+
+# ---- tahrirlagichlar ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Windows ----
+Thumbs.db
+desktop.ini

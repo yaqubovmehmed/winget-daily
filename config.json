@@ -1,0 +1,8 @@
+{
+  "mode": "auto",
+  "timeoutMinutes": 60,
+  "silent": true,
+  "notify": true,
+  "notifyNoUpdates": true,
+  "logRetentionDays": 30
+}
