@@ -58,8 +58,8 @@ The files are copied to `%LOCALAPPDATA%\winget-daily`, so you can delete the ext
 ### Option B — from source
 
 ```powershell
-git clone https://github.com/<owner>/winget-daily.git
-cd winget-daily
+git clone https://github.com/yaqubovmehmed/winget-autoupdater.git
+cd winget-autoupdater
 powershell -ExecutionPolicy Bypass -File install-task.ps1
 ```
 
